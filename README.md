@@ -81,7 +81,7 @@ personal-blog/
 
 ## 🌐 Live Demo
 
-> *(Add your GitHub Pages link here after deploying)*
+> *(https://qarl1212.github.io/personal-blog1)*
 > Example: `https://YOUR-USERNAME.github.io/personal-blog`
 
 ---
